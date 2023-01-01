@@ -12,6 +12,10 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  face_input:
+    git:
+      url: https://github.com/Senopiece/face_input.git
+      ref: 8a7cc69e6843f3150fe2be7def2659c484258c3a # TODO: update
 
 dev_dependencies:
   flutter_test:
