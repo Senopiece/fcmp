@@ -1,0 +1,1 @@
+flutter run --multidex --debug
